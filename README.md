@@ -1,4 +1,4 @@
-# MiniSportify 🎵
+# MiniSportify 
 
 A desktop music player built with **PyQt6**, styled after Spotify's clean, sidebar-driven interface. MiniSportify started as a learning project to explore Python desktop app development and Git — and grew into a fully working local music player with library management and personalized recommendations.
 
