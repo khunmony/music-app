@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# --- Virtual environments ---
+.venv/
+venv/
+
+# --- PyInstaller build artifacts ---
+build/
+dist/
+*.spec
+
+# --- App data / local database ---
+minisportify.db
+*.db-journal
+
+# --- Local music/test audio (avoid committing large/copyrighted files) ---
+music/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log
